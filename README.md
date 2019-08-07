@@ -2,3 +2,5 @@
 This is 13th batch of DevOps class
 
 Opning new office
+
+Expanding to Maryland
